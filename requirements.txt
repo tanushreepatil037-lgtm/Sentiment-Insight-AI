@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+accelerate
+scikit-learn
+pandas
+matplotlib
+seaborn
+streamlit
+plotly
+peft
+langchain
+langchain-ollama
